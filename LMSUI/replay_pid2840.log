@@ -1,0 +1,10 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 114 ciObject found
+ciMethod java/util/Comparator compare (Ljava/lang/Object;Ljava/lang/Object;)I 0 0 1 0 -1
+ciMethod java/util/Arrays binarySearch0 ([Ljava/lang/Object;IILjava/lang/Object;)I 0 0 1 0 -1
+ciMethod java/util/Arrays binarySearch0 ([Ljava/lang/Object;IILjava/lang/Object;Ljava/util/Comparator;)I 3073 29377 2137 0 -1
+ciMethod sun/java2d/loops/GraphicsPrimitive getUniqueID ()I 27681 1 3460 0 -1
+ciMethod sun/java2d/loops/GraphicsPrimitiveMgr$2 compare (Ljava/lang/Object;Ljava/lang/Object;)I 4097 1 9429 0 160
+ciMethodData sun/java2d/loops/GraphicsPrimitiveMgr$2 compare (Ljava/lang/Object;Ljava/lang/Object;)I 0 0 orig 264 88 50 171 99 0 0 0 0 192 128 244 27 0 0 0 0 88 2 0 0 176 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 169 22 1 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 8 0 2 0 0 0 0 1 0 0 255 255 255 255 4 0 1 0 0 0 0 0 data 32 0x10004 0x0 0x20b3f280 0x5a4 0x20b3f330 0x242 0x40005 0x1d44 0x7c010e3d8 0x2db 0x7c010f920 0x2b6 0x90004 0x0 0x7c0112c28 0x22d5 0x0 0x0 0x140007 0x22bc 0x38 0x19 0x180003 0x19 0x50 0x1e0007 0xead 0x38 0x140f 0x220003 0x140f 0x18 oops 5 2 sun/java2d/loops/GraphicsPrimitiveProxy 4 sun/java2d/loops/DrawParallelogram
